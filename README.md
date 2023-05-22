@@ -1,7 +1,5 @@
 # Books managment - CRUD React Application
 
-[DEMO LINK](https://Malva37.github.io/books-management)
-
 This is a simple web application for managing a list of books. The project consists of two pages:
 
 1. Books List Page: Displays a list of books with the ability to filter by activated status. You can also edit the activated status or delete a book from DB. Clicking on the edit button will redirect you to another page with the data of the selected book for editing.
