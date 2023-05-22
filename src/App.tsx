@@ -36,7 +36,7 @@ function App() {
       </main>
 
       <footer className="has-text-centered has-background-light is-flex-align-items-flex-end mt-auto p-3">
-        <a href="/" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Malva37/books-management" target="_blank" rel="noreferrer">
           My GitHub
         </a>
       </footer>
